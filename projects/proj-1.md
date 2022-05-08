@@ -17,4 +17,4 @@ Keywords: Beautification; Chinese architectural image; New media age; Image comm
 
 DOI: 10.26689/jwa.v6i1.2901
 
-
+{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
