@@ -6,10 +6,10 @@ permalink: /about
 
 # This is Tingyu
 
-BFU urban planning '22
-Architecture enthusiast
-Data scientist wanna be
+BFU urban planning '22/ Architecture enthusiast/ Data scientist wanna be.
 
-Build this website for a summer school application
+Metalhead/ Nihilist
+
+Build this website for a summer school application.
 
 
