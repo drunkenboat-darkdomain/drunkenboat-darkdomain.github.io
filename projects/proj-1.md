@@ -1,9 +1,20 @@
 ---
 layout: post
-title: 'Project One'
+title: 'THESIS: Beautification of Chinese Architectural Images in the New Media Age'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
+Published in Journal of World Architecture, 2022, Volume 6, Issue 1, as the second author.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
+Abstract: From the perspective of communication science, the communication of architectural images in the new media age
+has an obvious beautifying trend. Due to the differences in politics, economics, and cultural environment between China and 
+western countries, the beautification of architectural images in China is a unique phenomenon. This study classifies the 
+beautification of Chinese architectural images into different types in terms of image communication: audience orientation, 
+time orientation, space orientation, and cultural orientation. By investigating and analyzing relevant cases, this study explores 
+the beautification of Chinese architectural images in the new media age and puts forward thoughts and evaluation, aiming to 
+better comprehend the relationship between beautification and architectural communication.
+
+Keywords: Beautification; Chinese architectural image; New media age; Image communication
+
+DOI: 10.26689/jwa.v6i1.2901
+
+
