@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'THESIS: Beautification of Chinese Architectural Images in the New Media Age'
+title: 'Beautification of Chinese Architectural Images in the New Media Age'
 ---
 
 Published in Journal of World Architecture, 2022, Volume 6, Issue 1, as the second author.
