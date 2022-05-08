@@ -1,8 +1,12 @@
 ---
 layout: post
-title: 'Project Three'
+title: 'DESIGN'
 ---
 
-Donec condimentum a leo nec posuere. Vestibulum faucibus leo nec nisl varius vestibulum. Aenean vel quam semper, vestibulum augue at, rutrum ligula. Ut gravida, ex sit amet fringilla luctus, lorem quam mollis elit, et tristique leo urna non odio. Curabitur elementum viverra consequat. Vestibulum vitae dolor tristique, pellentesque metus non, suscipit nunc. Aenean id sem eu libero sodales dignissim eget quis quam. Phasellus quis lectus ac odio convallis luctus. Praesent sed ligula ipsum. Nullam ultricies nunc nec turpis porttitor elementum. Vestibulum vitae imperdiet elit, nec mattis magna. Vestibulum id neque nec turpis ullamcorper rutrum ac non ligula. Quisque nec pellentesque diam. Vestibulum at aliquam mi, vitae fringilla quam. Suspendisse potenti.
+A museum design homework.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-3/clothes.jpg" %}
+![1 大](https://user-images.githubusercontent.com/80751447/167291506-6450dbad-1bf8-4b64-ac8d-72c62fd8ae20.jpeg)
+![2 大](https://user-images.githubusercontent.com/80751447/167291509-0288528f-dfdf-44ff-8804-4509e0a2322c.jpeg)
+![3 大](https://user-images.githubusercontent.com/80751447/167291511-d5052663-a80c-4446-aceb-2e08e8863fd9.jpeg)
+
+
