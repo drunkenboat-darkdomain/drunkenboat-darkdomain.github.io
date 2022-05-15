@@ -7,3 +7,5 @@ title: 'Data visualization projects'
 
 [ArcGIS analysis of Jingshan district](https://github.com/drunkenboat-darkdomain/drunkenboat-darkdomain.github.io/files/8695193/1_gis.pdf)
 This is the final assignment of my ArcGIS course, and I was in charge of POI data and part 4 infrastructure analysis.
+
+ {% pdf "https://github.com/drunkenboat-darkdomain/drunkenboat-darkdomain.github.io/files/8695193/1_gis.pdf" %}
