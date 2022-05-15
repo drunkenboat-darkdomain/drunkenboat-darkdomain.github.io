@@ -13,8 +13,8 @@ menu:
 projects:
 - {name: 'THESIS',   url: 'proj-1'}
 - {name: 'CERTIFICATE',   url: 'proj-2'}
-- {name: 'DESIGN', url: 'proj-3'}
 - {name: 'PROJECT', url: 'proj-4'}
+- {name: 'DESIGN', url: 'proj-3'}
 
 #-------------------------------
 # Contact Section
