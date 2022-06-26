@@ -18,8 +18,27 @@ title: "On distance in syntax and life 漫谈句法与人生中的”距离“"
 
 在学习fuzzywuzzy模块时，我接触到了
 
-# 空间句法中的”距离“
+例如，
 
-空间句法的视域分析
+# Euclidean/Topological/Angular Distance 空间句法中的”距离“们
+
+有别于自然语言和数学语言，空间句法模型试图以形式语言描述建筑和城市形态，因此空间句法除了[研究“欧几里得距离（Euclidean distance）”](https://discovery.ucl.ac.uk/id/eprint/206/)，也关注[“拓扑距离(Topological distance)”和“转角距离(Angular distance)”](https://www.spacesyntax.online/overview-2/analysis-of-spatial-relations/)。
+
+鉴于这不是一篇的科普文，我再举个极其不严谨的例子：
+
+>为了学习时不吃东西，我把一个火龙果放在了电脑后面，这时我和火龙果的欧几里得距离/米制距离是五十厘米；拓扑距离/深度是2，因为拓扑关系是“我-电脑-火龙果”，转角距离是180度左右。
+
+这三个变量巧妙而全面地描述了我和火龙果的关系。试想，如果没有拓扑距离，通过欧几里得距离和转角距离的描述，火龙果似乎触手可及，但是我学习时并不能直接够到火龙果！
+
+可见，空间句法中的距离不仅用于定位，更重要的是与个人体验相关。
 
 # 人生中的”距离“
+
+不难发现，距离即是被数据表征的标量，也被社会建构，具有社会文化意义，两者微妙的关系始终让我心旌摇荡，我认为它具有无可比拟的魅力，也因此坚定地向往”人文社科中的量化研究“的道路。
+
+最近在看《史前星球》(Prehistoric Planet)，在观察动物为生存的奔波和自然残酷的法则之外，我想没有厚重铠甲或尖锐牙齿的人类比起恐龙唯一的优势是脑子更好使，引用安兰德的话就是”猫猫猎食，人类学习和创造(The purpose of birds is to fly, the purpose of cats is to hunt, the purpose of man is to learn and create)“。食肉牛龙(Carnotaurus)为了使密林中距离更远的同伴听见自己，进化出低频的叫声；脑子好使的人类可以在扩充“距离”的含义、分类、算法，我在学习和思考中获得了“欣于所遇，暂得于己”的快乐。
+
+
+
+
+
