@@ -3,7 +3,7 @@ layout: post
 title: "On distance in syntax and life 漫谈句法与人生中的”距离“"
 ---
 
-### 前言
+## 前言
 
 《云图》中的水手自述”所见甚广，难以为奴(Seen too much of the world, I no good slaves)“，曾经航行的距离变为了反抗的勇气；常用语”异地恋“和其别称”远距离恋爱“区别在于，前者听起来像是两个孤立的点、后者像一条跨越山海的线段；顾城的《远和近》对比深不可测的心理距离和遥不可及的自然距离：
 
@@ -27,7 +27,7 @@ title: "On distance in syntax and life 漫谈句法与人生中的”距离“"
 
 如果想提升自主阅读能力，不妨算一下“黑魔法火龙果”和“黑火龙魔法果”的编辑距离！
 
-### Euclidean/Topological/Angular Distance 空间句法中的”距离“们
+## Euclidean/Topological/Angular Distance 空间句法中的”距离“们
 
 有别于自然语言和数学语言，空间句法模型试图以形式语言描述建筑和城市形态，因此空间句法除了[研究“欧几里得距离（Euclidean distance）”](https://discovery.ucl.ac.uk/id/eprint/206/)，也关注[“拓扑距离(Topological distance)”和“转角距离(Angular distance)”](https://www.spacesyntax.online/overview-2/analysis-of-spatial-relations/)。
 
@@ -39,7 +39,7 @@ title: "On distance in syntax and life 漫谈句法与人生中的”距离“"
 
 可见，空间句法中的距离不仅用于定位，更重要的是与个人体验相关。
 
-### 人生中的”距离“
+## 人生中的”距离“
 
 不难发现，距离即是被数据表征的标量，也被建构(construct)，具有社会文化意义，两者微妙的关系始终让我心旌摇荡，我认为它具有无可比拟的魅力，也因此坚定地向往”人文社科中的量化研究“的道路。
 
