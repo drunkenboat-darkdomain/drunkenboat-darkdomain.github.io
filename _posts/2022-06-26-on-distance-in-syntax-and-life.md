@@ -27,7 +27,7 @@ title: "On distance in syntax and life 漫谈句法与人生中的“距离”"
 
 如果想提升自主阅读能力，不妨算一下“黑魔法火龙果”和“黑火龙魔法果”的编辑距离！
 
-## Euclidean/Topological/Angular Distance 空间句法中的”距离“们
+## Euclidean/Topological/Angular Distance 空间句法中的“距离”们
 
 有别于自然语言和数学语言，空间句法模型试图以形式语言描述建筑和城市形态，因此空间句法除了[研究“欧几里得距离（Euclidean distance）”](https://discovery.ucl.ac.uk/id/eprint/206/)，也关注[“拓扑距离(Topological distance)”和“转角距离(Angular distance)”](https://www.spacesyntax.online/overview-2/analysis-of-spatial-relations/)。
 
