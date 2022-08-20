@@ -20,7 +20,6 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'instagram', link: 'https://www.instagram.com/dragon_fruit_noir'}
 - {icon: 'github',    link: 'https://github.com/drunken-boat'}
 - {icon: 'linkedin',  link: 'https://www.linkedin.com/in/tingyu-liu-781097229/'}
 
