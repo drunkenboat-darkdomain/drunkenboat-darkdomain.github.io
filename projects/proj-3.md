@@ -5,7 +5,6 @@ title: 'DESIGN'
 
 MUSEUM DESIGN
 =======
-{% include map.html %}
 
 A museum design homework.
 
