@@ -6,11 +6,11 @@ permalink: /about
 
 # This is Tingyu Liu
 
-BFU urban planning '23/ Data scientist wanna be.
+BFU urban planning '23 / Data engineer wanna be
 
-Into GIS/ space syntax
+Into GIS and space syntax
 
-Metalhead/ Nihilist
+Metalhead / Nihilist
 
 
 
