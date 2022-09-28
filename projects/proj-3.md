@@ -8,6 +8,7 @@ MUSEUM DESIGN
 
 {% include test.html %}
 {% include try.html %}
+{% include embed_test_map.html %}
 ```python
 print('hello world!')
 ```
