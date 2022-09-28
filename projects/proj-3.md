@@ -8,7 +8,7 @@ MUSEUM DESIGN
 
 {% include test.html %}
 
-{% highlight python %}
+{% highlight py %}
 print('hello world!')
 {% endhighlight %}
 
