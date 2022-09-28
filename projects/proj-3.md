@@ -7,12 +7,10 @@ MUSEUM DESIGN
 =======
 <iframe src="/Users/rainylty/STUDY/IVth/datascience/summer_school/PROJECT/drunkenboat-darkdomain.github.io/_includes/interactive_map_4_obvious_poi.html" height="600px" width="100%" style="border:none;"></iframe>
 
-{% include test.html %}
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-22.917480468750004%2C48.864714761802794%2C9.228515625000002%2C60.834204246024875&amp;layer=mapnik&amp;marker=55.30413773740139%2C-6.83349609375" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=55.304&amp;mlon=-6.833#map=6/55.298/-6.844">查看更大的地图</a></small>
+
+
 {% include try.html %}
-{% include embed_test_map.html %}
-```python
-print('hello world!')
-```
 
 {% highlight ruby %}
 def foo
