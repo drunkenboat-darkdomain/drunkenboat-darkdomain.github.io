@@ -6,7 +6,7 @@ title: 'DESIGN'
 MUSEUM DESIGN
 =======
 
-{% include interactive_map_4_obvious_poi.html %}
+{% include test_map.html %}
 
 A museum design homework.
 
