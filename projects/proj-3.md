@@ -5,6 +5,7 @@ title: 'DESIGN'
 
 MUSEUM DESIGN
 =======
+<iframe src="/Users/rainylty/STUDY/IVth/datascience/summer_school/PROJECT/drunkenboat-darkdomain.github.io/_includes/test_map.html" height="600px" width="100%" style="border:none;"></iframe>
 
 {% include test.html %}
 {% include try.html %}
