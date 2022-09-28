@@ -8,6 +8,11 @@ MUSEUM DESIGN
 
 {% include test.html %}
 
+{% highlight python %}
+print('hello world!')
+{% endhighlight %}
+
+
 A museum design homework.
 
 ![1 大](https://user-images.githubusercontent.com/80751447/167291506-6450dbad-1bf8-4b64-ac8d-72c62fd8ae20.jpeg)
