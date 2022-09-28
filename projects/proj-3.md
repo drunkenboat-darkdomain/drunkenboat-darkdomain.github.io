@@ -12,6 +12,12 @@ MUSEUM DESIGN
 print('hello world!')
 {% endhighlight %}
 
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+
 
 A museum design homework.
 
