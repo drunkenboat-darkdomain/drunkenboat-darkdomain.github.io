@@ -27,9 +27,9 @@ It most frequently refers to smaller venues, which may double as bars, especiall
 
 And this project will emphasize the [metal](https://en.wikipedia.org/wiki/Heavy_metal_music) live house.
 
-# INTRODUCTION
+## INTRODUCTION
 
-## project feature
+### project feature
 
 `A **location analysis** with **quantitative** and **qualitative** methodologies`
 
@@ -39,7 +39,7 @@ And this project will emphasize the [metal](https://en.wikipedia.org/wiki/Heavy_
 
 *for the hope of a better place for subcultural groups like metalheads*
 
-## aim
+### aim
 
 (Supposing that  I have sufficient money)
 
@@ -47,14 +47,14 @@ to invest, locate, and design a live house
 
 where metalheads can appreciate live🎸 and drink beer🍻 and I can have maximized profit💰
 
-## estimated outcomes
+### estimated outcomes
 
 1. an analysis **report** *`.pdf and .gpkg`* **MAIN**
 2. a **guiding template** for location analysis with open source data and code in this project *`GitHub repository`*
 3. a **video** recording my journey in this project  *`.mp4`*
 4. live house **surface design** with [rhino python](https://developer.rhino3d.com/guides/rhinopython/) with emphasis on develop instead of design *`.py and .3dm`*
 
-## PROJECT VALUE
+### PROJECT VALUE
 
 - Combine **qualitative** and **quantitive** methodologies to form comprehensive result, which few previous study did.
 - Use program to increase efficiency, mainly python.
