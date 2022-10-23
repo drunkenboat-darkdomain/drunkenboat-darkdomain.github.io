@@ -11,7 +11,7 @@ BFU urban planning '23
 Long term goal: data engineer
 
 
-Fun fact:
+Fun facts about me:
 
 Metalhead who [deeply likes the last.fm's listening report](https://www.last.fm/user/Pagan_Flame_/listening-report)
 
