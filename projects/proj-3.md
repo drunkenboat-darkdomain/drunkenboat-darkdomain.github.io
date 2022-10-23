@@ -31,7 +31,7 @@ And this project will emphasize the [metal](https://en.wikipedia.org/wiki/Heavy_
 
 ### project feature
 
-`A **location analysis** with **quantitative** and **qualitative** methodologies`
+A **location analysis** with **quantitative** and **qualitative** methodologies
 
 *with what I learn in urban planning and data science* 
 
