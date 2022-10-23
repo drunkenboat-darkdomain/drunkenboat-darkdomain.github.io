@@ -54,7 +54,7 @@ where metalheads can appreciate live🎸 and drink beer🍻 and I can have maxi
 3. a **video** recording my journey in this project  *`.mp4`*
 4. live house **surface design** with [rhino python](https://developer.rhino3d.com/guides/rhinopython/) with emphasis on develop instead of design *`.py and .3dm`*
 
-# PROJECT VALUE
+## PROJECT VALUE
 
 - Combine **qualitative** and **quantitive** methodologies to form comprehensive result, which few previous study did.
 - Use program to increase efficiency, mainly python.
