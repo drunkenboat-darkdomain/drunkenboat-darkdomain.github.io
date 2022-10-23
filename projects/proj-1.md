@@ -14,7 +14,7 @@ This is a  project for PKU visualization summer school, processing text data of 
 It was part of the Austrian Black Metal Syndicate, along with [Abigor](https://www.metal-archives.com/bands/Abigor/1066) and [Golden Dawn](https://www.metal-archives.com/bands/Golden_Dawn/1425).
 
 This is a wordcloud of Summoning's lyrics.
-![This is a wordcloud of Summoning's lyrics.](FINAL_ASSEST/word_cloud-01.png)
+![word_cloud-01](https://user-images.githubusercontent.com/80751447/197376264-13d66b38-40f9-4e88-9b24-7891084c6869.png)
 
 ## 2. What is middle earth?
 
@@ -23,18 +23,23 @@ This is a wordcloud of Summoning's lyrics.
 This is a timeline of Arda, and Tolkien's work is set in the First Age to the Third Age, and the most famous one, Lord of the Rings is in the Third Age.
 
 It's only reasonable to visualize these place in the Third Age because [the Earth(Arda) had been flat before then](https://en.wikipedia.org/wiki/History_of_Arda).
+![timeline](https://user-images.githubusercontent.com/80751447/197376341-63987a5e-7308-4fa9-8595-9944281adf9d.png)
 
-![](FINAL_ASSEST/timeline.png)
 
 ## 3. What is Summoning's most mentioned place in middele earth?
 Summoning's first three albums are named after strongholds of evil: "Lugburz" (1995), "Minas Morgul" (1996) and "Dol Guldur" (1996).
 
 This map shows most mentioned place in their lyrics.
-![](FINAL_ASSEST/me_place_in_lyrics.png)
+![me_place_in_lyrics](https://user-images.githubusercontent.com/80751447/197376390-64f045d0-240d-48b2-ab0d-c12b3e20ef52.jpeg)
+
 
 In detail, these maps show the lyric lines mentioning place.
-![](FINAL_ASSEST/detailed1_me_place_in_lyrics.png)
-![](FINAL_ASSEST/detailed_me_place_in_lyrics.png)
+![detailed1_me_place_in_lyrics](https://user-images.githubusercontent.com/80751447/197376488-a6ae6947-c078-4220-9545-92b9823974cf.jpeg)
+
+![detailed1_me_place_in_lyrics](https://user-images.githubusercontent.com/80751447/197376439-f2194d20-7ec5-47bf-933c-5a546df8a46f.jpeg)
+
+![detailed_me_place_in_lyrics](https://user-images.githubusercontent.com/80751447/197376500-5e46af48-e8a4-4957-b7a3-1e87e18bed60.jpeg)
+
 
 ## 4. Why did I make this project?
 Under the cooperation with Mrs.Xiang and books written by Yi-Fu Tuan, I appreciate the attachment to place, and constantly find inspiration in cultural geography. From my perspective, place adds a nostalgic yet perceptible dimension to our life.
