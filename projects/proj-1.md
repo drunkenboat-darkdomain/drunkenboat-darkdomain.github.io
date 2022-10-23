@@ -36,8 +36,6 @@ This map shows most mentioned place in their lyrics.
 In detail, these maps show the lyric lines mentioning place.
 ![detailed1_me_place_in_lyrics](https://user-images.githubusercontent.com/80751447/197376488-a6ae6947-c078-4220-9545-92b9823974cf.jpeg)
 
-![detailed1_me_place_in_lyrics](https://user-images.githubusercontent.com/80751447/197376439-f2194d20-7ec5-47bf-933c-5a546df8a46f.jpeg)
-
 ![detailed_me_place_in_lyrics](https://user-images.githubusercontent.com/80751447/197376500-5e46af48-e8a4-4957-b7a3-1e87e18bed60.jpeg)
 
 
