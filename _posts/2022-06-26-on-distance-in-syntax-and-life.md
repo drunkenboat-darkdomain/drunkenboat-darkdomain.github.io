@@ -3,6 +3,8 @@ layout: post
 title: "On distance in syntax and life 漫谈句法与人生中的“距离”"
 ---
 
+***This article will be also translated to English later.***
+
 ## 前言
 
 《云图》中的水手自述”所见甚广，难以为奴(Seen too much of the world, I no good slaves)“，曾经航行的距离变为了反抗的勇气；常用语”异地恋“和其别称”远距离恋爱“区别在于，前者听起来像是两个孤立的点、后者像一条跨越山海的线段；顾城的《远和近》对比深不可测的心理距离和遥不可及的自然距离：
