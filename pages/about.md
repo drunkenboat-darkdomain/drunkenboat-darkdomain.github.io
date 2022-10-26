@@ -14,7 +14,7 @@ Fun facts about me:
 
 A metalhead who [deeply likes the last.fm's listening report](https://www.last.fm/user/Pagan_Flame_/listening-report)
 
-A paperback book advocate who suffers in moving every time, but they feels different and old school!
+A paperback book advocate who suffers in moving every time, but they feel different and old school!
 
 A gym woman happens to like cooking.
 
