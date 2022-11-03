@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'THESIS ARCHIVE'
+title: 'My Back Pages'
 ---
+*aka thesis archive*
 
 ## Beautification of Chinese Architectural Images in the New Media Age 
 
@@ -18,7 +19,6 @@ better comprehend the relationship between beautification and architectural comm
 Keywords: Beautification; Chinese architectural image; New media age; Image communication
 
 DOI: 10.26689/jwa.v6i1.2901
-![IMG_5033](https://user-images.githubusercontent.com/80751447/197374169-2aa2563e-a9f1-4af3-9209-555b2875ebb3.jpg)
 
 ## 基于Citespace的我国工业遗存再利用研究关键词演变与趋势分析
 
