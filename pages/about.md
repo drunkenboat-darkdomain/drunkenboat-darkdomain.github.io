@@ -22,7 +22,6 @@ Prefer text and data to graph so much that track daily outfits by feature keywor
 
 I think [Giant anteater](https://en.wikipedia.org/wiki/Giant_anteater) and [Tamandua](https://en.wikipedia.org/wiki/Tamandua) are cute!!!!
 
-Yes, I'm too unapologetically pedantic to post a harmless smiling photo ;)
 
 
 
