@@ -3,8 +3,6 @@ layout: post
 title: 'Livehouse Location Analysis'
 ---
 
-=======
-
 **This project is in progress!**
 
 
