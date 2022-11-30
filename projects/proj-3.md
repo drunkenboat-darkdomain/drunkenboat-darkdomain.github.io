@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'LIVEHOUSE LOCATION ANALYSIS'
+title: 'Livehouse Location Analysis'
 ---
 
-LIVEHOUSE LOCATION ANALYSIS
 =======
 
 **This project is in progress!**
+
 
 ## Background
 
@@ -46,6 +46,13 @@ A **location analysis** with **quantitative** and **qualitative** methodologies
 to invest, locate, and design a live house
 
 where metalheads can appreciate live🎸 and drink beer🍻 and I can have maximized profit💰
+
+
+#### Data I plan to use
+
+- quantitative: housing price data - crawl from real estate web, poi(location, attribute, type, etc.) - query from Gaode Map API
+
+- qualitative: historical, archival, and other documents, in-depth interviews, cognitive maps
 
 ### estimated outcomes
 
