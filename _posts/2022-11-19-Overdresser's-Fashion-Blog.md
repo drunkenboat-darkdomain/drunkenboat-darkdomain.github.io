@@ -21,3 +21,6 @@ In addition to my known features:
 - More mature look
 - Defined waistline
 - Try-hard and overdressed over underdressed
+
+update:
+oops it has been 4 whole monthes since I thought about this fashion blog.. guess I'll update my progress later!
