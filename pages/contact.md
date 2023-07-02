@@ -6,4 +6,4 @@ permalink: /contact
 
 # Contact
 
-You may contact me [through my email](mailto: rainylty@bjfu.edu.cn).
+You may contact me [through my email](mailto: rainylty@outlook.com).
