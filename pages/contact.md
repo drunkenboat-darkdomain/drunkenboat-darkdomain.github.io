@@ -6,4 +6,4 @@ permalink: /contact
 
 # Contact
 
-You may contact me [through my email](mailto: rainylty@outlook.com).
+You may contact me [through my email](mailto: private.fun.ov.drunkenboat@gmail.com).
