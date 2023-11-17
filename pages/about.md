@@ -6,7 +6,8 @@ permalink: /about
 
 # This is Tara Liu
 
-BFU urban planning '23
+Georgia Tech '24
+BFU '23
 
 Fun facts about me:
 
